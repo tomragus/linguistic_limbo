@@ -1,10 +1,8 @@
-# linguistic_limbo
+### Linguistic Limbo: International Languages EDA (Exploratory Data Analysis)
 
-# Hi! This is my Python script for my "Linguistic Limbo" project, which is a personal data analysis project analyzing and visualizing linguistic diversity, endangered languages and language revitalization efforts across the world using publicly available Kaggle data. 
+This project is a simple, basic-level Exploratory Data Analysis on international language diversity, created for the purpose of practicing basic Python, Excel, Tableau and notebook building for data science. In a way, this was an exercise in exploring a topic I was interested in, simply for the sake of satisfying my own curiosity, while also developing some basic data analysis skills. Written as a Notion page, but it is essentially structured as a Jupyter notebook, with Tableau dashboards embedded within. 
 
-# This project was created over the span of 2 weeks using Python [pandas, NumPy, matplotlib], Microsoft Excel and Tableau, and the report was compiled on Notion. 
+I've formatted this and written it in such a way as to make it easily digestible for anyone of any level of data science expertise, and easily replicable for anyone looking to develop their own project. If you're looking to develop your own first data science project, or you're looking to learn about languages, have a read! You may enjoy it. 🙂
 
-# If you'd like to check out the report, please do so here: https://hyper-governor-c79.notion.site/The-Linguistic-Limbo-An-Investigation-of-the-Active-Endangered-and-Extinct-Languages-of-the-World-16ead749ffa5817788fede2046551db2
+👉 [read here](https://hyper-governor-c79.notion.site/The-Linguistic-Limbo-An-International-Languages-EDA-Exploratory-Data-Analysis-16ead749ffa5817788fede2046551db2)
 
-# Thanks!
-# Tom
